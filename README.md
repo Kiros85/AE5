@@ -4,4 +4,4 @@
 
 # Aportes
 
-Ernesto Solis: creacion del repositorio, algoritmo, informe en latex, archivo informacion_confidencial.txt, README.md,archivo (.gitingnore).
+Ernesto Solis: creacion del repositorio, algoritmo, informe en latex, archivo informacion_confidencial.txt, README.md y archivo (.gitignore).
